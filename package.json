@@ -11,9 +11,9 @@
     "angular",
     "angularjs",
     "directive",
-    "autofocus",
-    "focus",
-    "delay"
+    "autoselect",
+    "select",
+    "focus"
   ],
   "licenses": [{
     "type": "MIT",

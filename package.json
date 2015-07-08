@@ -1,7 +1,7 @@
 {
   "name": "ng-autoselect",
   "version": "0.0.1",
-  "description": "A simple AngularJS attribute directive that will select the contents of an input field on focus",
+  "description": "AngularJS directive that will select the contents of an input field on focus",
   "repository": {
     "type": "git",
     "url": "https://github.com/hiebj/ng-autoselect.git"
